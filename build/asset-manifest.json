@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Diksha-Grover/hotstarClone/static/css/main.5118b71b.chunk.css",
+    "main.js": "/Diksha-Grover/hotstarClone/static/js/main.07eca37e.chunk.js",
+    "main.js.map": "/Diksha-Grover/hotstarClone/static/js/main.07eca37e.chunk.js.map",
+    "runtime-main.js": "/Diksha-Grover/hotstarClone/static/js/runtime-main.dc32e55f.js",
+    "runtime-main.js.map": "/Diksha-Grover/hotstarClone/static/js/runtime-main.dc32e55f.js.map",
+    "static/css/2.c9fa9927.chunk.css": "/Diksha-Grover/hotstarClone/static/css/2.c9fa9927.chunk.css",
+    "static/js/2.24e6c4bf.chunk.js": "/Diksha-Grover/hotstarClone/static/js/2.24e6c4bf.chunk.js",
+    "static/js/2.24e6c4bf.chunk.js.map": "/Diksha-Grover/hotstarClone/static/js/2.24e6c4bf.chunk.js.map",
+    "index.html": "/Diksha-Grover/hotstarClone/index.html",
+    "static/css/2.c9fa9927.chunk.css.map": "/Diksha-Grover/hotstarClone/static/css/2.c9fa9927.chunk.css.map",
+    "static/css/main.5118b71b.chunk.css.map": "/Diksha-Grover/hotstarClone/static/css/main.5118b71b.chunk.css.map",
+    "static/js/2.24e6c4bf.chunk.js.LICENSE.txt": "/Diksha-Grover/hotstarClone/static/js/2.24e6c4bf.chunk.js.LICENSE.txt",
+    "static/media/1564674844-disney.76f717a3.mp4": "/Diksha-Grover/hotstarClone/static/media/1564674844-disney.76f717a3.mp4",
+    "static/media/1564676115-marvel.25a822f5.mp4": "/Diksha-Grover/hotstarClone/static/media/1564676115-marvel.25a822f5.mp4",
+    "static/media/1564676296-national-geographic.bf1b675d.mp4": "/Diksha-Grover/hotstarClone/static/media/1564676296-national-geographic.bf1b675d.mp4",
+    "static/media/1564676714-pixar.971baf2b.mp4": "/Diksha-Grover/hotstarClone/static/media/1564676714-pixar.971baf2b.mp4",
+    "static/media/1608229455-star-wars.90fa9f5a.mp4": "/Diksha-Grover/hotstarClone/static/media/1608229455-star-wars.90fa9f5a.mp4",
+    "static/media/cta-logo-one.1e2a5ccb.svg": "/Diksha-Grover/hotstarClone/static/media/cta-logo-one.1e2a5ccb.svg",
+    "static/media/cta-logo-two.e69ae552.png": "/Diksha-Grover/hotstarClone/static/media/cta-logo-two.e69ae552.png",
+    "static/media/login-background.05b1a1b3.jpg": "/Diksha-Grover/hotstarClone/static/media/login-background.05b1a1b3.jpg",
+    "static/media/logo.8205aae8.svg": "/Diksha-Grover/hotstarClone/static/media/logo.8205aae8.svg",
+    "static/media/slider-badag.36599446.jpg": "/Diksha-Grover/hotstarClone/static/media/slider-badag.36599446.jpg",
+    "static/media/slider-badging.b33dd5b6.jpg": "/Diksha-Grover/hotstarClone/static/media/slider-badging.b33dd5b6.jpg",
+    "static/media/slider-scale.172c6ead.jpg": "/Diksha-Grover/hotstarClone/static/media/slider-scale.172c6ead.jpg",
+    "static/media/slider-scales.f921e314.jpg": "/Diksha-Grover/hotstarClone/static/media/slider-scales.f921e314.jpg",
+    "static/media/viewers-disney.eb5bab59.png": "/Diksha-Grover/hotstarClone/static/media/viewers-disney.eb5bab59.png",
+    "static/media/viewers-national.c50dd65f.png": "/Diksha-Grover/hotstarClone/static/media/viewers-national.c50dd65f.png",
+    "static/media/viewers-starwars.3fb2e20c.png": "/Diksha-Grover/hotstarClone/static/media/viewers-starwars.3fb2e20c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc32e55f.js",
+    "static/css/2.c9fa9927.chunk.css",
+    "static/js/2.24e6c4bf.chunk.js",
+    "static/css/main.5118b71b.chunk.css",
+    "static/js/main.07eca37e.chunk.js"
+  ]
+}
